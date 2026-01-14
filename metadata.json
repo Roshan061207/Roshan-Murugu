@@ -1,0 +1,7 @@
+{
+  "name": "AuraNutri AI",
+  "description": "A high-fidelity nutritional intelligence platform focusing on positive reinforcement and mindful eating through AI-powered analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
